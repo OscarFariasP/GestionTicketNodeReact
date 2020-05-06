@@ -33,8 +33,10 @@ npm install
 	Ejecuta: 
 	
 	```shell
-sequelize db:migrate && sequelize db:seed :all
+sequelize db:migrate
+sequelize db:seed :all
 ```
+
 Finalmente ejecutamos:
 ```shell
 npm start
