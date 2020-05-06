@@ -37,6 +37,7 @@ sequelize db:migrate
 sequelize db:seed :all
 </b>
 
+
 Finalmente ejecutamos:
 ```shell
 npm start
