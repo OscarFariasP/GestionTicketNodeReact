@@ -59,6 +59,12 @@ Tu sitio web se abrirá en localhost:
 
 http://localhost:3000/
 
+
+Nota: 
+
+El lado del servidor está en http://localhost:9000/
+El lado del cliente front end es la web que percibirás en http://localhost:3000/
+
 Creditos:
 
 Oscar Farias
