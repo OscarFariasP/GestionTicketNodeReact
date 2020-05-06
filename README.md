@@ -34,6 +34,7 @@ npm install
 	
 <b>	
 sequelize db:migrate
+
 sequelize db:seed :all
 </b>
 
@@ -54,7 +55,7 @@ Finalmente ejecuta:
 ```shell
 npm start
 ```
-Tu sitio web se abrirá en:
+Tu sitio web se abrirá en localhost:
 
 http://localhost:3000/
 
