@@ -59,11 +59,22 @@ Tu sitio web se abrirá en localhost:
 
 http://localhost:3000/
 
+Usuarios de prueba:
+
+admin: admin@example.com
+pass: 123456
+
+user: user@example.com
+pass: 123456
+
+
 
 Nota: 
 
 El lado del servidor está en http://localhost:9000/
 El lado del cliente front end es la web que percibirás en http://localhost:3000/
+
+
 
 Creditos:
 
